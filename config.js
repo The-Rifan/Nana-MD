@@ -6,9 +6,9 @@ const received = chalk.bold.cyan
 const error = chalk.bold.red
 
 
-global.owner = ['6281390199407','6281393190599'] // Put your number here
+global.owner = ['6281390199407','6289652898494','6281393190599'] // Put your number here
 global.mods = [] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.prems = ['6289652898494'] // Premium user has unlimited limit
 global.APIs = {'https://vinzcognita-key.herokuapp.com/api'
 // Contoh Penambahan Rest Api Yang Akan Digunakan
 // Prefix: 'Alamat Url Website Rest Api',
