@@ -9,7 +9,7 @@ const error = chalk.bold.red
 global.owner = ['6281390199407','6281393190599'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
-global.APIs = {
+global.APIs = {'https://vinzcognita-key.herokuapp.com/api'
 // Contoh Penambahan Rest Api Yang Akan Digunakan
 // Prefix: 'Alamat Url Website Rest Api',
   bx: 'https://bx-hunter.herokuapp.com',
@@ -32,7 +32,7 @@ global.APIs = {
   lol: 'https://api.lolhuman.xyz',
   vh: 'http://api.vhtear.com',
 }
-global.APIKeys = { 
+global.APIKeys = {'https://vinzcognita-key.herokuapp.com/api' : 'kuvianti'
 // Contoh Penambahan Rest Api + Apikey Yang Akan Digunakan
 // 'Alamat Url Website Rest Api': 'Apikey',
   'https://bx-hunter.herokuapp.com': 'Ikyy69',
